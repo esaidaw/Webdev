@@ -1,0 +1,122 @@
+
+body{
+  background-color: white;
+  margin: 0;
+  text-align: center;
+  font-family: 'Galada',serif ;
+
+
+}
+.top{
+  background-color: #E4F9F5;
+  width: 100%:
+  position: relative;
+  padding-top:100px;
+
+}
+h1{
+  margin: 50px auto 10px auto;
+  font-size: 90px;
+  color: #66BFBF ;
+  line-height: 2;
+
+
+}
+.topcloud{
+  position: absolute;
+  right:350px;
+  top: 50px;
+
+
+}
+.bottomcloud{
+  position: absolute;
+  left: 400px;
+
+}
+.p1{
+  font-family: 'Shadows Into Light Two',sans-serif;
+  font-size: 2.5rem;
+  color:#66BFBF ;
+  font-weight: 950px;
+}
+.per{
+  float: right;
+  width:25%;
+  margin-left: 30px;
+
+}
+.per1{
+  margin-top: 30px;
+  height: 150px;
+  width:130px;
+  border-radius: 100%;
+}
+h2{
+  font-family: 'Anton', serif;
+  font-size: 2.5rem;
+  color: #11999E;
+}
+h3{
+  font-family: 'Open Sans',sans-serif;
+}
+p{
+  font-family: serif;
+}
+.bottom-container{
+  background-color:  #E4F9F5;
+  padding-top: 50px;
+  margin-top: 20px;
+}
+
+
+.footer-link{
+  color: #11999E;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align:left;
+  line-height: 2;
+
+
+}
+
+
+.hr1{
+  border-style: none;
+  border-top-style:dotted;
+  width:8%;
+  border-width: 10px;
+  background-color: white;
+  border-color: grey;
+  margin: auto;
+  align-content: center;
+
+
+}
+.profile{
+  width:30%;
+  margin:auto;
+}
+
+.myButton {
+	background-color:#44c767;
+	border-radius:8px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:13px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #60f0bb;
+}
+.myButton:hover {
+	background-color:#5cbf2a;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
